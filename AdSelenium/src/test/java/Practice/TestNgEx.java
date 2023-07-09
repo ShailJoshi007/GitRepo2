@@ -18,6 +18,7 @@ public class TestNgEx extends BaseClass{
 	
 	public void createContact() throws Throwable
 	{
+		//Pulling the data from the Git Repo2
 		System.out.println("ContactCreated");
 //		WebDriver driver = null;
 //		WebDriverManager.chromedriver().setup();
